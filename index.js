@@ -1,4 +1,4 @@
-const { Person } = require('./person')
+
 const dotenv = require("dotenv")
 const connecToDatabase = require('./src/database/connect')
 
