@@ -1,5 +1,4 @@
 const express = require('express')
-const userModel = require('../src/models/user.model')
 const UserModel = require('../src/models/user.model')
 const port = 8080
 
